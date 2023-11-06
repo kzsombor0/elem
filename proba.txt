@@ -1,3 +1,7 @@
 első munka, első gép
 második munka, második gép
+<<<<<<< HEAD
 almafa ága
+=======
+munka valami
+>>>>>>> 14c504516abf45261f46698d280a863e8d084b41
